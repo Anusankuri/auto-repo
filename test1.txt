@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 247B-ADB4
+
+ Directory of C:\Users\Krishna\OneDrive\Documents\OneDrive\Desktop\my project
+
+03-01-2025  14:04    <DIR>          .
+03-01-2025  13:58    <DIR>          ..
+03-01-2025  14:04                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  322,439,516,160 bytes free
